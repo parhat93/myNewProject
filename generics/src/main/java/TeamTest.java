@@ -5,6 +5,7 @@ public class TeamTest {
         FootballPlayer joe = new FootballPlayer("Joe");
         BaseballPlayer pat = new BaseballPlayer("Pat");
         SoccerPlayer beckham = new SoccerPlayer("Beckham");
+        SkiPlayer john = new SkiPlayer("John");
 
 //        Team liverpool = new Team("Liverpool");
 
