@@ -5,7 +5,6 @@
       <module fileurl="file://$PROJECT_DIR$/collections-review/collections-review.iml" filepath="$PROJECT_DIR$/collections-review/collections-review.iml" />
       <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-review.iml" filepath="$PROJECT_DIR$/.idea/java-review.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lambda/lambda.iml" filepath="$PROJECT_DIR$/lambda/lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/oop-review/oop-review.iml" filepath="$PROJECT_DIR$/oop-review/oop-review.iml" />
     </modules>
   </component>
